@@ -17,3 +17,4 @@ It is not how to on how to go through the courts with out the help of a Bar Memb
 
 # Learn More
  - [Links](Links.md)
+ - [Ethics Complaints Resources](KC_Ethics_Complaints.md)
